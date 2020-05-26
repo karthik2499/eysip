@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, D:/eYSIP/Repository/TWS_Verilog/TWS_tb.v
+source_file = 1, D:/eYSIP/Repository/TWS_Verilog/TWS_Datalink.v
+source_file = 1, D:/eYSIP/Repository/TWS_Verilog/TWS_Behavioral.v
+source_file = 1, D:/eYSIP/Repository/TWS_Verilog/db/TWS_Verilog.cbx.xml
+design_name = TWS_Behavioral
+instance = comp, \X1~output , X1~output, TWS_Behavioral, 1
+instance = comp, \s2~input , s2~input, TWS_Behavioral, 1
+instance = comp, \s1~input , s1~input, TWS_Behavioral, 1
+instance = comp, \always0~0 , always0~0, TWS_Behavioral, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1
