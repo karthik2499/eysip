@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/eYSIP/Repository/TWS_Verilog/simulation/modelsim
+vTWS_Behavioral
+Z1 !s110 1590496501
+!i10b 1
+!s100 ocdgdD5XX=3:4HDH]a<_93
+IAP1FhB[cG4R;0P?TbF@6U0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1590426331
+8D:/eYSIP/Repository/TWS_Verilog/TWS_Behavioral.v
+FD:/eYSIP/Repository/TWS_Verilog/TWS_Behavioral.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1590496501.000000
+!s107 D:/eYSIP/Repository/TWS_Verilog/TWS_Behavioral.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eYSIP/Repository/TWS_Verilog|D:/eYSIP/Repository/TWS_Verilog/TWS_Behavioral.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/eYSIP/Repository/TWS_Verilog
+Z7 tCvgOpt 0
+n@t@w@s_@behavioral
+vTWS_tb
+R1
+!i10b 1
+!s100 WoN_ahTS=D23RchMjfdd>3
+INAmR4J6L8F2cA@lMO>S`43
+R2
+R0
+w1589899898
+8D:/eYSIP/Repository/TWS_Verilog/TWS_tb.v
+FD:/eYSIP/Repository/TWS_Verilog/TWS_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/eYSIP/Repository/TWS_Verilog/TWS_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eYSIP/Repository/TWS_Verilog|D:/eYSIP/Repository/TWS_Verilog/TWS_tb.v|
+!i113 1
+R5
+R6
+R7
+n@t@w@s_tb
